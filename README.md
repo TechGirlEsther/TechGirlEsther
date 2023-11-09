@@ -3,10 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/TechGirlEsther/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TechGirlEsther/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/TechGirlEsther/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/TechGirlEsther/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/TechGirlEsther/ticket-lifecycle)
+  - [Configuring Active Directory within Azure VMs](https://github.com/TechGirlEsther/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/
 
 <h2>🤳Connect with me:</h2>
